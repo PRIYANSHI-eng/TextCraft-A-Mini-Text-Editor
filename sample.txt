@@ -1,0 +1,10 @@
+Welcome to TextCraft!
+This is a simple sample file used to demonstrate:
+- Loading an existing file
+- Displaying content
+- Appending text
+- Search & Replace (try replacing the word "TextCraft" with "Editor")
+
+Happy editing!
+
+
